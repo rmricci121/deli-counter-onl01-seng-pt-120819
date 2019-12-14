@@ -1,6 +1,6 @@
 def line(katz_deli)
   katz_deli = []
-  if katz_deli.length 
+  if katz_deli.length > 0 
 end
 
 def take_a_number(katz_deli, name)
